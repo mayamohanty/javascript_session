@@ -1,1 +1,1 @@
-var name="Maya";
+var session="Javascript";
